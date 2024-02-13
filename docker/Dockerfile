@@ -91,6 +91,7 @@ RUN python3 -m pip install --no-cache-dir \
     cython \
     keystone-engine \
     maat \
+    pwncli \
     pwnscripts \
     pycipher \
     pycryptodome \

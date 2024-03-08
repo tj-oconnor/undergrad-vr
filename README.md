@@ -10,7 +10,7 @@ The following repository contains the containers, labs, and code used in our und
 
 ### Course Docker Container
 
-For our class, we standardized the student environment by providing a Docker container with all the appropriate course tools and class demonstrations. These challenges are patched with the appropriate libc versions and the scripts and verified to work for the course image. You can pull the course image from dockerhub using ``docker pull tjoconnor/undergrad-vr``. For more about the container, review [README.md](docker/README.md)
+For our class, we standardized the student environment by providing a Docker container with all the appropriate course tools and class demonstrations. These challenges are patched with the appropriate libc versions and the scripts and verified to work for the course image. You can pull the course image from dockerhub using ``docker pull tjoconnor/vr-course``. For more about the container, review [README.md](docker/README.md)
 
 ### Challenge Docker Container
 
